@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Gautam Ankoji Articles</title>
+    <link>https://ankoji-enterprises.github.io/articles/</link>
+    <description>Recent content in Articles on Gautam Ankoji Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2024 22:27:07 +0530</lastBuildDate>
+    <atom:link href="https://ankoji-enterprises.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the first Article</title>
+      <link>https://ankoji-enterprises.github.io/articles/article/</link>
+      <pubDate>Sun, 03 Mar 2024 22:27:07 +0530</pubDate>
+      <guid>https://ankoji-enterprises.github.io/articles/article/</guid>
+      <description>This is some content.&#xA;print(&amp;#34;First Article!&amp;#34;) Hello&#xD;Hello World!&#xD;Goodbye&#xD;Goodbye Everybody!&#xD;</description>
+    </item>
+  </channel>
+</rss>
