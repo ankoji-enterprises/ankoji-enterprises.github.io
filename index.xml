@@ -15,5 +15,12 @@
       <guid>https://ankoji-enterprises.github.io/articles/article/</guid>
       <description>This is some content.&#xA;print(&amp;#34;First Article!&amp;#34;) Hello&#xD;Hello World!&#xD;Goodbye&#xD;Goodbye Everybody!&#xD;</description>
     </item>
+    <item>
+      <title>This is the second Article</title>
+      <link>https://ankoji-enterprises.github.io/articles/article2/</link>
+      <pubDate>Sun, 03 Mar 2024 22:27:07 +0530</pubDate>
+      <guid>https://ankoji-enterprises.github.io/articles/article2/</guid>
+      <description>This is some content.&#xA;print(&amp;#34;Second Article!&amp;#34;) Hello&#xD;Hello World!&#xD;Goodbye&#xD;Goodbye Everybody!&#xD;</description>
+    </item>
   </channel>
 </rss>
